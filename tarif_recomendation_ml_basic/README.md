@@ -11,12 +11,8 @@
 ## Навыки и инструменты
 
 - **pandas**
-- **EDA**
-- **Feature engineering**
 - **numpy**
-- **Scipy**
 - **seaborn**
-- **math**
 - **matplotlib**
 
 ## Цель исследования
